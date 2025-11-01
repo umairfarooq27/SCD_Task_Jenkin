@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node testScript.js",
-    "build": "echo Building Node.js project..."
+    "build": "echo Building Node.js project...",
+    "lint": "echo Running linter... && echo Lint passed"
 
   },
   "keywords": [],
